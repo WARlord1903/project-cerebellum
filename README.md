@@ -31,6 +31,7 @@ Though this program was written 100% independently, without any external program
 ## Missing Features
 * Togglable button configurations
 * Proportional-loop motor controls
+* Pathfinder support
 * Tipping-Point Configurations (Change Up only)
 
 ## Known Bugs

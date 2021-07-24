@@ -36,3 +36,6 @@ Though this program was written 100% independently, without any external program
 ## Known Bugs
 * Adding a controller button in the button mapping menu crashes the program unless a motor has already been defined.
   * Workaround: Define a motor beforehand.
+
+*  Having more left drive motors than right drive motors causes the program to crash the next time it is ran.
+   * Workaround: Define the same number of left drive and right drive motors before rebooting the program.
